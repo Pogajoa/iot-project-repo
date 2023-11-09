@@ -24,18 +24,18 @@ draw.io 링크: [https://drive.google.com/file/d/1gtUsnsUkhlHpAqQX9k2jctidUJYdlS
 ## ✈️ PPT 자료
 https://docs.google.com/presentation/d/1AWp36OybdQL008NTzZpEw1TwQ33S21eg/edit?usp=sharing&ouid=102784698114875004183&rtpof=true&sd=true
 
-## 🥇 관제 PC PyQt UI 구성
+## 🏛️ 관제 PC PyQt UI 구성
 ![image](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/87626122/d6cdd2d7-a69d-44de-a100-2c2726581b0c)
 
-## 🥇 기능 리스트 
+## ⚡ 기능 리스트 
 ![image](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/87626122/743f2364-f4d6-42f3-ac6f-21d2d068c38b)
 
-## 🥇 위험 지역 접근 감지 스마트 세이프티 센서
+## 📢 위험 지역 접근 감지 스마트 세이프티 센서
 
 ![image](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/87626122/ccfea0ac-1966-4220-802d-31033bc0af23)
 
 
-## 🥇 스마트 출입문 시스템 구성
+## 🚪 스마트 출입문 시스템 구성
 
 ![image](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/87626122/3ea7efd5-411d-475d-846b-3669c0c9bd82)
 
@@ -45,7 +45,7 @@ https://docs.google.com/presentation/d/1AWp36OybdQL008NTzZpEw1TwQ33S21eg/edit?us
 ![image](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/87626122/0c86df78-afea-45de-ae79-167017b12dd2)
 
 
-## 실행 방법
+## ✏️ 실행 방법
 - arduino_rfid.ino, all_in_one_fuinalalll_ver.ino를 참고하여 아두이노와 포트와 PC 연결
   
 ### 1. 자동 출입 모드  
