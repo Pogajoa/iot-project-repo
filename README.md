@@ -25,7 +25,7 @@ draw.io 링크: [https://drive.google.com/file/d/1gtUsnsUkhlHpAqQX9k2jctidUJYdlS
 https://docs.google.com/presentation/d/1AWp36OybdQL008NTzZpEw1TwQ33S21eg/edit?usp=sharing&ouid=102784698114875004183&rtpof=true&sd=true
 
 ## 🏛️ 관제 PC PyQt UI 구성
-![PyQt](https://github.com/Pogajoa/iot-project-repo/assets/87626122/8add5710-45f5-4ef9-83cc-a1fc79229d18)
+![pyqt](https://github.com/Pogajoa/iot-project-repo/assets/87626122/ad84dea2-c4ef-468f-ad4d-01d9d3d66fc2)
 
 ## ⚡ 기능 리스트 
 ![image](https://github.com/addinedu-ros-3rd/iot-repo-6/assets/87626122/743f2364-f4d6-42f3-ac6f-21d2d068c38b)
